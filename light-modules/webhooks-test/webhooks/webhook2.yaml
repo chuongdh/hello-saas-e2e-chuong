@@ -1,4 +1,4 @@
-name: webhook3
+name: webhook2
 restClientName: alreadyConfiguredClient
 restCallName: publish
 enabled: true
