@@ -7,5 +7,5 @@ events:
     eventType: Published
     filter: "@path LIKE '%madrid-webhook%'"
   - name: p4
-    eventType: Published
+    eventType: Unpublished
     filter: "@path LIKE '%madrid-webhook%'"
