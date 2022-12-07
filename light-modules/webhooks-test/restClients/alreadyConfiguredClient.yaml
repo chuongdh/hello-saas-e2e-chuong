@@ -1,5 +1,5 @@
-baseUrl: https://webhook.site
+baseUrl: https://mockserver.beta.de.magnolia-cloud.com
 restCalls:
   publish:
     method: get
-    path: /d37d68dc-25e7-4821-9857-afd22db0dd9f
+    path: /webhook2
