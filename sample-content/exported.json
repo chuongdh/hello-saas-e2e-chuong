@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "name": "meomeo",
+        "uuid": "53262f47-1eb0-43cd-a866-fc3b280bc12e"
+    },
+    "@content": {
+        "qux": false,
+        "bool": true,
+        "name": "meomeo",
+        "attributes": {
+            "label1": "three",
+            "labelTwo": 3
+        }
+    },
+    "@nodes": []
+}
